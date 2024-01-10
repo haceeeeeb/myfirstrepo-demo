@@ -1,4 +1,4 @@
 # myfirstrepo-demo
 My first git repository 
 
-Author - Haseeb Khan 
+Author - Haseeb Khan (gigachad)
